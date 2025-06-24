@@ -105,7 +105,7 @@ The chatbot will be available at `http://127.0.0.1:5000/` in your browser.
 - Flask: https://flask.palletsprojects.com/
 - Google Calendar API: https://developers.google.com/calendar
 
-👥 Authors
+👥 Author
 - Dison Methvin
  
 
