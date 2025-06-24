@@ -106,6 +106,6 @@ The chatbot will be available at `http://127.0.0.1:5000/` in your browser.
 - Google Calendar API: https://developers.google.com/calendar
 
 👥 Authors
-- Dison Methvin – E178054
-- Ralph Shenal – E007487 
+- Dison Methvin
+ 
 
